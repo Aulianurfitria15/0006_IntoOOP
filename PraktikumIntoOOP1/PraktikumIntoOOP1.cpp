@@ -38,4 +38,4 @@ public:
 
 int main() {
 	Mahasiswa mhs;
-	
+	Matakuliah mk;
