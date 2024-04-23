@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PraktikumIntoOOP1", "PraktikumIntoOOP1\PraktikumIntoOOP1.vcxproj", "{039BD80E-204C-420D-823B-64D7A24D62BF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "praktikumIntOOP2", "praktikumIntOOP2\praktikumIntOOP2.vcxproj", "{99EED7AD-792C-47B6-909D-31D9DB5313A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{039BD80E-204C-420D-823B-64D7A24D62BF}.Release|x64.Build.0 = Release|x64
 		{039BD80E-204C-420D-823B-64D7A24D62BF}.Release|x86.ActiveCfg = Release|Win32
 		{039BD80E-204C-420D-823B-64D7A24D62BF}.Release|x86.Build.0 = Release|Win32
+		{99EED7AD-792C-47B6-909D-31D9DB5313A2}.Debug|x64.ActiveCfg = Debug|x64
+		{99EED7AD-792C-47B6-909D-31D9DB5313A2}.Debug|x64.Build.0 = Debug|x64
+		{99EED7AD-792C-47B6-909D-31D9DB5313A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{99EED7AD-792C-47B6-909D-31D9DB5313A2}.Debug|x86.Build.0 = Debug|Win32
+		{99EED7AD-792C-47B6-909D-31D9DB5313A2}.Release|x64.ActiveCfg = Release|x64
+		{99EED7AD-792C-47B6-909D-31D9DB5313A2}.Release|x64.Build.0 = Release|x64
+		{99EED7AD-792C-47B6-909D-31D9DB5313A2}.Release|x86.ActiveCfg = Release|Win32
+		{99EED7AD-792C-47B6-909D-31D9DB5313A2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
