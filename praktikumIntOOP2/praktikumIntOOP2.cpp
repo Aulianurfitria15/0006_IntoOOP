@@ -4,7 +4,15 @@ using namespace std;
 class bangunDatar {
 
 	//akses modifier
-private:
-	float panjang, lebar;
-public:
-	float luas;
+	private:
+		float panjang, lebar;
+	public:
+		float luas;
+
+		void input() {
+
+			cout << "Masukan Panjangnya = ";
+			cin >> panjang;
+			cout << "Masukan Lebarnya = ";
+			cin >> lebar;
+		}
