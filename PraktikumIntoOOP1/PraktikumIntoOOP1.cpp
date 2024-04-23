@@ -35,3 +35,5 @@ public:
 		cout << "SKS: " << sks << endl;
 	}
 };
+
+int main() {
